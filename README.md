@@ -11,3 +11,5 @@ Step 2: Then run it using ./"$(file_name).
 Example: if your file name is backup_script.sh then provide same name in step1 & 2.
 chmod +x backup_script.sh
 ./backup_script.sh
+
+Thanks Pravin Signmpalli to share the content for us.
