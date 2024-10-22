@@ -12,4 +12,3 @@ Example: if your file name is backup_script.sh then provide same name in step1 &
 chmod +x backup_script.sh
 ./backup_script.sh
 
-Thanks Pravin Signmpalli to share the content for us.
